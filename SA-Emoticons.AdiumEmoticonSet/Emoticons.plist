@@ -7,6 +7,56 @@
 	<key>Emoticons</key>
 	<dict>
 
+		<key>adam-15.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:adam:</string>
+			</array>
+			<key>Name</key>
+			<string>:adam:</string>
+		</dict>
+		<key>adam-25.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:adaam:</string>
+				<string>:aadam:</string>
+			</array>
+			<key>Name</key>
+			<string>:adaam:</string>
+		</dict>
+		<key>adam-50.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:adaaam:</string>
+				<string>:aaadam:</string>
+			</array>
+			<key>Name</key>
+			<string>:adaaam:</string>
+		</dict>
+		<key>adam-75.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:adaaaam:</string>
+				<string>:aaaadam:</string>
+			</array>
+			<key>Name</key>
+			<string>:adaaaam:</string>
+		</dict>
+		<key>adam-full.png</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:adaaaaam:</string>
+				<string>:aaaaadam:</string>
+			</array>
+			<key>Name</key>
+			<string>:adaaaaam:</string>
+		</dict>
+
 		<key>leekspin.gif</key>
 		<dict>
 			<key>Equivalents</key>
