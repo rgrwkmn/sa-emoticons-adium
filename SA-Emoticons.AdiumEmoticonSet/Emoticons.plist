@@ -6,6 +6,51 @@
 	<integer>1</integer>
 	<key>Emoticons</key>
 	<dict>
+		<key>jake.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:jake:</string>
+			</array>
+			<key>Name</key>
+			<string>:jake:</string>
+		</dict>
+		<key>jaake.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:jaake:</string>
+			</array>
+			<key>Name</key>
+			<string>:jaake:</string>
+		</dict>
+		<key>jaaake.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:jaaake:</string>
+			</array>
+			<key>Name</key>
+			<string>:jaaake:</string>
+		</dict>
+		<key>jaaaake.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:jaaaake:</string>
+			</array>
+			<key>Name</key>
+			<string>:jaaaake:</string>
+		</dict>
+		<key>jaaaaake.gif</key>
+		<dict>
+			<key>Equivalents</key>
+			<array>
+				<string>:jaaaaake:</string>
+			</array>
+			<key>Name</key>
+			<string>:jaaaaake:</string>
+		</dict>
 
 		<key>adam-15.png</key>
 		<dict>
